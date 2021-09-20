@@ -1,7 +1,7 @@
 # SWISH: A shifting-weight interface of simulated hydrodynamics for haptic perception of virtual fluid vessels
 
 
-![alt text](https://github.com/Shahab-VT/SWISH/blob/main/teaser_swish20-p-1080.jpg?raw=true)
+![alt text](https://github.com/Shahab-VT/SWISH/blob/main/teaser_swish20-p-1080.jpeg?raw=true)
 
 
 Publication
